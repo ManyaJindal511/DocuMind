@@ -22,8 +22,3 @@ Below is a sample screenshot showing DocuMind in action:
 - FAISS
 - HuggingFace
 - PyPDF2
-
-## Run Locally
-```bash
-pip install -r requirements.txt
-streamlit run app.py
