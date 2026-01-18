@@ -5,7 +5,7 @@ DocuMind is a **Retrieval-Augmented Generation (RAG) PDF chatbot** that allows u
 ## Screenshot
 Below is a sample screenshot showing DocuMind in action:
 
-![DocuMind Screenshot](results/Screenshot 2026-01-18 184451.png)
+![DocuMind Screenshot](results/Result.png)
 
 
 ## Features
