@@ -13,8 +13,7 @@ Below is a sample screenshot showing DocuMind in action:
 - Context-aware question answering (RAG)
 - FAISS vector store
 - HuggingFace embeddings & LLM
-- Fully local (no API keys required)
-
+  
 ## Tech Stack
 - Python
 - Streamlit
